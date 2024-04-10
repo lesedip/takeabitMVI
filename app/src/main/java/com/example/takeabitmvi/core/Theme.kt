@@ -1,4 +1,4 @@
-package com.example.takeabitmvi.ui
+package com.example.takeabitmvi.core
 
 import android.app.Activity
 import android.os.Build
