@@ -2,4 +2,7 @@
 plugins {
     alias(libs.plugins.androidApplication) apply false
     alias(libs.plugins.jetbrainsKotlinAndroid) apply false
+    alias(libs.plugins.googleKsp) apply false
+    alias(libs.plugins.googleDaggerHilt) apply false
+    alias(libs.plugins.androidxRoom) apply false
 }
